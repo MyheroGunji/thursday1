@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Week3 Homework CSSlab 1</title>
+	<link rel="stylesheet" href="HomeworkW3CSS.css">	
+	
+	<style>
+        /* Internal CSS for Page 1 */
+        body {
+            background-color: green; /* Set background color to green */
+        }
+
+        /* Style for the paragraphs */
+        p {color: blue; /* Make one paragraph blue */
+        }
+		h1 {color: red;
+		}
+
+      
+    </style>
+
+</head>
+<body>
+	<h1>About Japan</h1>
+	<p>Hope you are enjoy it!</p>
+	<p>Thank you for visiting.</p>
+	
+	<h2>Places and Food</h2>
+	<ol>
+	<li> <a href="https://www.kyototourism.org/en/"> Check the place in Japan </a></li>
+	<li>  <a href="https://www.tasteatlas.com/best-rated-dishes-in-japan"> check the best Japanese food </a></li>
+	</ol>
+
+	<p><a href="HomeworkW3-2.html">Go to Page 2</a></p>
+    <p><a href="HomeworkW3-3.html">Go to Page 3</a></p>
+	
+
+
+</body>
+
+</html>    
